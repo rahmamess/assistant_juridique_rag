@@ -1,0 +1,16 @@
+pandas
+numpy
+pyarrow
+faiss-cpu
+sentence-transformers
+python-dotenv
+openai
+streamlit
+tqdm
+accelerate
+transformers 
+streamlit
+fastapi
+uvicorn
+
+
